@@ -29,6 +29,11 @@ Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome
   - [Maximum likelihood training of score-based diffusion models](https://proceedings.neurips.cc/paper/2021/file/0a9fdbb17feb6ccb7ec405cfb85222c4-Paper.pdf)
   - [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
   - [Variational Diffusion Models](https://arxiv.org/pdf/2107.00630.pdf)
+  - [Symbolic Music Generation with Diffusion Models](https://www.semanticscholar.org/paper/Symbolic-Music-Generation-with-Diffusion-Models-Mittal-Engel/93d00ea9c87268f867b4addb8043be35d6996d18)
+  - [Noise Estimation for Generative Diffusion Models](https://www.semanticscholar.org/paper/Noise-Estimation-for-Generative-Diffusion-Models-Roman-Nachmani/001534ec4e6d656722fddc81ba532779cea76875)
+  - [DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models](https://www.semanticscholar.org/paper/DiffusionCLIP%3A-Text-guided-Image-Manipulation-Using-Kim-Ye/78a168d41b0147a00347242b97522900631ddfe4)
+  - [Denoising Diffusion Implicit Models](https://www.semanticscholar.org/paper/Denoising-Diffusion-Implicit-Models-Song-Meng/3261984e42320900246ef9aa454c6fab5c0a191e)
+  - [Improved Denoising Diffusion Probabilistic Models](https://www.semanticscholar.org/paper/Improved-Denoising-Diffusion-Probabilistic-Models-Nichol-Dhariwal/de18baa4964804cf471d85a5a090498242d2e79f)
 
  
  
