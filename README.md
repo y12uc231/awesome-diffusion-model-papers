@@ -23,6 +23,7 @@ Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome
  - [Diffusion models explained in 4-difficulty levels](https://www.youtube.com/watch?v=yTAMrHVG1ew)
  - [The Recent Rise of Diffusion Based Models](https://maciejdomagala.github.io/generative_models/2022/06/06/The-recent-rise-of-diffusion-based-models.html)
  - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+ - [Diffusion Probabilistic Models, Jascha Sohl-Dickstein](https://www.youtube.com/watch?v=XCUlnHP1TNM)
  
  
  
