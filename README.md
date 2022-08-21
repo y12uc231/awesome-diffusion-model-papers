@@ -10,6 +10,7 @@ Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome
  - [Awesome Lists](#awesome-lists)
  - [Tutorials](#Tuts)
  - [Papers](#papers)
+ - [Courses](#courses)
  
  ## Awesome Lists
  
@@ -37,7 +38,8 @@ Please feel free to send me [pull requests]([https://github.com/y12uc231/awesome
   - [Denoising Diffusion Implicit Models](https://www.semanticscholar.org/paper/Denoising-Diffusion-Implicit-Models-Song-Meng/3261984e42320900246ef9aa454c6fab5c0a191e)
   - [Improved Denoising Diffusion Probabilistic Models](https://www.semanticscholar.org/paper/Improved-Denoising-Diffusion-Probabilistic-Models-Nichol-Dhariwal/de18baa4964804cf471d85a5a090498242d2e79f)
 
- 
+## Courses
+-[MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://ali-design.github.io/deepcreativity/)
  
 
 
